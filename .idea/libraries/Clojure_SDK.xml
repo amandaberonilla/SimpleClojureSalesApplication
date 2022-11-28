@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Clojure SDK" type="Clojure">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/cursive-1.12.4-2022.2.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
